@@ -107,7 +107,7 @@ dev = [
     "mdformat-frontmatter~=2.1.2",
     "mdformat-gfm~=1.0.0",
     "mdformat-admon~=2.1.1",
-    "mdformat-gfm-alerts~=2.0.0",
+    "mdformat-gfm-alerts~=2.1.0",
 
     # type-checking
     "types-click~=7.1.8",
