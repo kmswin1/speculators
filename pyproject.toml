@@ -98,7 +98,7 @@ dev = [
     "pytest-rerunfailures~=16.4",
 
     # code quality
-    "mypy~=2.1.0",
+    "mypy~=2.3.0",
     "ruff~=0.15.20",
 
     # docs quality
