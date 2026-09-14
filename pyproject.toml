@@ -59,7 +59,7 @@ dependencies = [
     "torch>=2.9.0,<=2.13.0",
     "torchaudio",
     "torchvision",
-    "tqdm>=4.66.3,<=4.70.0",
+    "tqdm>=4.66.3,<=4.70.1",
     "transformers>=4.56.1,<5.15.0",
     "typer>=0.12.0",
 ]
